@@ -1,0 +1,40 @@
+.top{
+  background-color: #ff96ad;
+  padding-top: 30px;
+
+}
+h1{
+  margin-top: 100px;
+  font-family: 'Sacramento', cursive;
+}
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-cloud{
+  margin-top: 50px;
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+}
+.dev{
+  text-decoration: underline;
+}
+.profilep{
+  border-radius: 50%;
+  height: 200px;
+  width: 170px;
+}
+.skill{
+  border-radius: 50%;
+  height: 200px;
+  width: 220px;
+}
+.code{
+  display: inline;
+}
